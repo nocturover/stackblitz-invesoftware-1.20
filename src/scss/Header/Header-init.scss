@@ -1,0 +1,28 @@
+// @import './_variables.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: $font-nanum-heavy;
+}
+
+h2 {
+  font-family: $font-nanum-extrabold;
+}
+
+h3 {
+  font-family: $font-nanum-bold;
+}
+
+h4 {
+  font-family: $font-nanum-light;
+}
+
+p,
+span,
+a {
+  font-family: $font-nanum-medium;
+}

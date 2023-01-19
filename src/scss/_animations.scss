@@ -1,0 +1,44 @@
+@keyframes fadeColor {
+  0% {
+  }
+
+  100% {
+    background-color: orangered;
+  }
+}
+@keyframes fadeInOpacity {
+  0% {
+    opacity: 0%;
+  }
+
+  100% {
+    opacity: 100%;
+  }
+}
+@keyframes rotateCW {
+  0% {
+  }
+
+  100% {
+    transform: rotate(180deg);
+    color: $color-green-dark;
+  }
+}
+@keyframes rotateCW {
+  0% {
+  }
+
+  100% {
+    transform: rotate(180deg);
+    color: $color-green-dark;
+  }
+}
+@keyframes rotateCCW {
+  0% {
+  }
+
+  100% {
+    transform: rotate(-180deg);
+    color: black;
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "emmet.syntaxProfiles": {
+
+        "html": {
+          "inline_break": 1
+        },
+      },
+      "emmet.preferences": {
+        "output.inlineBreak": 1,
+    },
+}
